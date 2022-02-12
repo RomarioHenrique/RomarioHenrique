@@ -16,9 +16,9 @@
 
  <img align="center" alt="html5" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
  
- ![Snake animation](https://github.com/romariohenrique/romariohenrique/blob/output/github-contribution-grid-snake.svg)
-
 </div>
+
+![Snake animation](https://github.com/romariohenrique/romariohenrique/blob/output/github-contribution-grid-snake.svg)
 
 
 
