@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Olá! Eu sou o Romario Henrique. </h1>
+# <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Olá! Eu sou o Romario Henrique.
 
 
 ## Atualmente estudando:
