@@ -18,7 +18,6 @@
  
 </div>
 
-![Snake animation](https://github.com/romariohenrique/romariohenrique/blob/output/github-contribution-grid-snake.svg)
 
 
 
